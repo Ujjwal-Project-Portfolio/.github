@@ -1,67 +1,73 @@
-# **Ujjwal Jain — Financial Modelling & Research Portfolio**
-
-Welcome to my project portfolio.  
-This organization contains all my major **Equity Research, Valuation, Financial Modelling, and Finance Analytics** work completed across multiple internships and academic projects.
+<!-- Title / Logo (Style A: clean & elegant) -->
+<h1 align="left">Ujjwal Jain — <span style="color:#2b2b2b">Financial Modelling & Research Portfolio</span></h1>
 
 ---
 
-## 🔷 **Equity Research Internships**
+<p>
+<strong>Equity Research • Valuation • Financial Modelling • Finance Analytics</strong><br>
+Delhi, India • <code>ujjwal.23452@sscbs.du.ac.in</code> • <a href="https://github.com/ujjwaljain060905">github.com/ujjwaljain060905</a> • <em>LinkedIn: add your URL</em>
+</p>
 
-### **📌 IIFL Capital — Equity Research Projects**
+<!-- Badges: professional flat style -->
+<p>
+<img alt="Excel" src="https://img.shields.io/badge/Excel-Advanced-107C41?style=flat&logo=microsoft-excel&logoColor=white" />
+<img alt="Financial Modelling" src="https://img.shields.io/badge/Financial%20Modelling-DCF%20%7C%20Comps-2F4F4F?style=flat" />
+<img alt="Python" src="https://img.shields.io/badge/Python-Pandas-3776AB?style=flat&logo=python&logoColor=white" />
+<img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-Intermediate-4F6BED?style=flat&logo=microsoft-power-bi&logoColor=white" />
+<img alt="CFA" src="https://img.shields.io/badge/CFA_L1-Prep-1F2937?style=flat" />
+</p>
+
+<hr/>
+
+## 🔷 Overview
+This organization hosts my **equity research, valuation, and finance analytics projects** completed across multiple internships and academic work. Each linked repository contains financial models, reports, and supporting datasets where applicable.
+
+---
+
+## 🔹 Pinned Internship Repositories
+
+### 📌 **IIFL Capital — Equity Research Projects**  
 **Repo:** https://github.com/Ujjwal-Project-Portfolio/Equity-Research-Projects-IIFL  
-**Work Covered:**  
-- Multi-sector equity research  
-- Fundamental analysis, catalysts, industry trends  
-- Short-term investment ideas  
-- Valuation models & financial forecasting  
+**Focus:** multi-sector equity research, catalysts, valuation models, short-term investment ideas.
 
 ---
 
-### **📌 Complete Circle Wealth Solutions — Equity Research Projects**
+### 📌 **Complete Circle Wealth Solutions — Equity Research**  
 **Repo:** https://github.com/Ujjwal-Project-Portfolio/Equity-Research-Projects-CCW  
-**Work Covered:**  
-- End-to-end valuation & modeling  
-- Reports on Kaynes Technology, Azad Engineering, CGS India & Oriana Power  
-- Investment recommendations backed by data & strategy  
-- Portfolio advisory insights  
+**Focus:** end-to-end valuations and reports (Kaynes, Azad, CGS India, Oriana Power).
 
 ---
 
-## 🔷 **Major Valuation & Research Projects**
+## 🔷 Major Valuation Projects
 
-### **📌 Textile & Apparel Industry — Equity Valuation Project**
+### 🧾 **Textile & Apparel Industry — Full Equity Valuation**  
 **Repo:** https://github.com/Ujjwal-Project-Portfolio/Textile-Apparel-Industry  
-**Highlights:**  
-- 100+ page institutional-style equity report  
-- DCF, SOTP, and Relative Valuations  
-- 10-year financial models for 6 companies  
-- 200+ KPI benchmarking & ESG insights  
+**Highlights:** 100+ page institutional report, DCF / SOTP / Relative valuations, 10-year models, 200+ KPI benchmarking.
 
 ---
 
-### **📌 Small Finance Banks — CAMEL & ANOVA Analysis**
+### 🏦 **Small Finance Banks — CAMEL & ANOVA Analysis**  
 **Repo:** https://github.com/Ujjwal-Project-Portfolio/SFBs  
-**Highlights:**  
-- Performance comparison of top 5 SFBs  
-- CAMEL framework + ANOVA statistical testing  
-- GNPA, CAR, Productivity, Efficiency analysis  
-- Key insights on inclusion & rural penetration  
+**Highlights:** CAMEL framework, ANOVA testing across top 5 SFBs, GNPA & CAR analysis, rural penetration insights.
 
 ---
 
-## 🔷 **About Me**
-I am an aspiring finance professional with experience across:  
-- Equity Research  
-- Financial Modelling  
-- Valuation (DCF, Comps, SOTP)  
-- Finance Analytics  
-- Report Writing  
-- Investment Strategy  
-
-Actively preparing for **CFA Level 1 (Feb 2026)** and **FRM**.
+## 🔷 How to view my work
+- Click any repo link above. Each repository contains a short README summarising the files and a `docs/` or `models/` folder (where applicable) with downloadable Excel models and PDFs.  
+- For resume links: use the repo URLs above (they’re public and recruiter-friendly).
 
 ---
 
-## 📬 **Contact**
-**Email:** ujjwal.23452@sscbs.du.ac.in  
-**LinkedIn:** *Add your LinkedIn profile link here*  
+## 🔷 About Me
+- Aspiring equity research analyst with hands-on valuation & modelling experience.  
+- Strong command of Excel modelling, valuation frameworks (DCF, Comps, SOTP), and finance analytics.  
+- Preparing for **CFA Level 1 (Feb 2026)** | FRM prep ongoing.  
+- National-level Table Tennis player (leadership & team experience).
+
+---
+
+## 🔷 Contact
+- **Email:** ujjwal.23452@sscbs.du.ac.in  
+- **LinkedIn:** *paste your profile URL here*
+
+---
