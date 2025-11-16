@@ -1,73 +1,99 @@
-<!-- Title / Logo (Style A: clean & elegant) -->
-<h1 align="left">Ujjwal Jain — <span style="color:#2b2b2b">Financial Modelling & Research Portfolio</span></h1>
-
----
-
-<p>
-<strong>Equity Research • Valuation • Financial Modelling • Finance Analytics</strong><br>
-Delhi, India • <code>ujjwal.23452@sscbs.du.ac.in</code> • <a href="https://github.com/ujjwaljain060905">github.com/ujjwaljain060905</a> • <em>LinkedIn: add your URL</em>
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ujjwal-Project-Portfolio/.github/main/banner_style_A.png" alt="Banner" width="100%">
 </p>
 
-<!-- Badges: professional flat style -->
-<p>
-<img alt="Excel" src="https://img.shields.io/badge/Excel-Advanced-107C41?style=flat&logo=microsoft-excel&logoColor=white" />
-<img alt="Financial Modelling" src="https://img.shields.io/badge/Financial%20Modelling-DCF%20%7C%20Comps-2F4F4F?style=flat" />
-<img alt="Python" src="https://img.shields.io/badge/Python-Pandas-3776AB?style=flat&logo=python&logoColor=white" />
-<img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-Intermediate-4F6BED?style=flat&logo=microsoft-power-bi&logoColor=white" />
-<img alt="CFA" src="https://img.shields.io/badge/CFA_L1-Prep-1F2937?style=flat" />
+<!-- Logo -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Ujjwal-Project-Portfolio/.github/main/logo_style_3.svg" alt="Ujjwal Jain Logo" width="220">
 </p>
 
-<hr/>
+---
 
-## 🔷 Overview
-This organization hosts my **equity research, valuation, and finance analytics projects** completed across multiple internships and academic work. Each linked repository contains financial models, reports, and supporting datasets where applicable.
+# **Ujjwal Jain — Financial Modelling & Research Portfolio**
+
+### **Equity Research • Valuation • Financial Modelling • Finance Analytics**  
+📍 Delhi, India • ✉️ *ujjwal.23452@sscbs.du.ac.in* • 🌐 [GitHub](https://github.com/ujjwaljain060905) • 🔗 *LinkedIn: https://www.linkedin.com/in/ujjwal-jain-970390258*
 
 ---
 
-## 🔹 Pinned Internship Repositories
+## 🔧 **Technical Skills**
 
-### 📌 **IIFL Capital — Equity Research Projects**  
-**Repo:** https://github.com/Ujjwal-Project-Portfolio/Equity-Research-Projects-IIFL  
-**Focus:** multi-sector equity research, catalysts, valuation models, short-term investment ideas.
-
----
-
-### 📌 **Complete Circle Wealth Solutions — Equity Research**  
-**Repo:** https://github.com/Ujjwal-Project-Portfolio/Equity-Research-Projects-CCW  
-**Focus:** end-to-end valuations and reports (Kaynes, Azad, CGS India, Oriana Power).
+<p>
+  <img src="https://img.shields.io/badge/Excel-Advanced-107C41?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Financial%20Modelling-DCF%20%7C%20Comps-2F4F4F?style=flat" />
+  <img src="https://img.shields.io/badge/Python-Pandas-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-Intermediate-F2C811?style=flat&logo=power-bi&logoColor=white" />
+  <img src="https://img.shields.io/badge/CFA%20L1-Prep-1F2937?style=flat" />
+</p>
 
 ---
 
-## 🔷 Major Valuation Projects
+## 📌 **Pinned Internship Repositories**
 
-### 🧾 **Textile & Apparel Industry — Full Equity Valuation**  
-**Repo:** https://github.com/Ujjwal-Project-Portfolio/Textile-Apparel-Industry  
-**Highlights:** 100+ page institutional report, DCF / SOTP / Relative valuations, 10-year models, 200+ KPI benchmarking.
-
----
-
-### 🏦 **Small Finance Banks — CAMEL & ANOVA Analysis**  
-**Repo:** https://github.com/Ujjwal-Project-Portfolio/SFBs  
-**Highlights:** CAMEL framework, ANOVA testing across top 5 SFBs, GNPA & CAR analysis, rural penetration insights.
+### **📍 IIFL Capital — Equity Research Projects**  
+🔗 Repo: https://github.com/Ujjwal-Project-Portfolio/Equity-Research-Projects-IIFL  
+**Work Covered:**  
+- Multi-sector equity research  
+- Financial modelling & forecasting  
+- Industry analysis, catalysts, investment triggers  
+- Short-term investment ideas  
 
 ---
 
-## 🔷 How to view my work
-- Click any repo link above. Each repository contains a short README summarising the files and a `docs/` or `models/` folder (where applicable) with downloadable Excel models and PDFs.  
-- For resume links: use the repo URLs above (they’re public and recruiter-friendly).
+### **📍 Complete Circle Wealth Solutions — Equity Research Projects**  
+🔗 Repo: https://github.com/Ujjwal-Project-Portfolio/Equity-Research-Projects-CCW  
+**Work Covered:**  
+- Detailed multi-sector equity valuation  
+- Company benchmarking (200+ metrics)  
+- DCF, relative, and SOTP valuation  
+- Strategic & ESG-integrated models  
 
 ---
 
-## 🔷 About Me
-- Aspiring equity research analyst with hands-on valuation & modelling experience.  
-- Strong command of Excel modelling, valuation frameworks (DCF, Comps, SOTP), and finance analytics.  
-- Preparing for **CFA Level 1 (Feb 2026)** | FRM prep ongoing.  
-- National-level Table Tennis player (leadership & team experience).
+### **📍 Textile & Apparel Industry — Full Valuation Project**  
+🔗 Repo: https://github.com/Ujjwal-Project-Portfolio/Textile-Apparel-Industry  
+**Highlights:**  
+- Full-cycle valuation for six textile companies  
+- Multi-scenario forecasting (10-year horizon)  
+- Sensitivity analysis, WACC modelling  
+- Institutional-style equity research report (100+ pages)  
 
 ---
 
-## 🔷 Contact
-- **Email:** ujjwal.23452@sscbs.du.ac.in  
-- **LinkedIn:** *paste your profile URL here*
+### **📍 Small Finance Banks — Research & Modelling Project**  
+🔗 Repo: https://github.com/Ujjwal-Project-Portfolio/SFBs  
+**Highlights:**  
+- GNPA/NNPA/ROA/ROE analysis  
+- Interest spread modelling  
+- Credit growth forecasting  
+- Competitive benchmarking (SFB universe)  
 
 ---
+
+## 📝 **About Me**
+
+I am an aspiring equity research & valuation analyst with hands-on experience across:  
+- Equity Research (multi-sector)  
+- Financial Modelling & Forecasting  
+- Valuation (DCF, Comps, SOTP)  
+- Investment Strategy  
+- Report Writing  
+- Data Analysis & Analytics  
+
+Currently preparing for **CFA Level 1 (Feb 2026)**.
+
+---
+
+## ⭐ **Explore My Work**
+
+All projects are available publicly within this organization.  
+Each repository contains:  
+✔ Financial models  
+✔ Research reports  
+✔ Valuation files  
+✔ Datasets (where applicable)
+
+---
+
+<p align="center"><em>Thank you for visiting — always open to collaboration & opportunities!</em></p>
