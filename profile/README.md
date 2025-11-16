@@ -13,7 +13,7 @@
 # **Ujjwal Jain — Financial Modelling & Research Portfolio**
 
 ### **Equity Research • Valuation • Financial Modelling • Finance Analytics**  
-📍 Delhi, India • ✉️ *ujjwal.23452@sscbs.du.ac.in* • 🌐 [GitHub](https://github.com/ujjwaljain060905) • 🔗 *LinkedIn: add your URL*
+📍 Delhi, India • ✉️ *ujjwal.23452@sscbs.du.ac.in* • 🌐 [GitHub](https://github.com/ujjwaljain060905) • 🔗 *LinkedIn: https://www.linkedin.com/in/ujjwal-jain-970390258*
 
 ---
 
